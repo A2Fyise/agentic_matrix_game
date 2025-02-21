@@ -1,4 +1,4 @@
-A simple custom  Gymnasium environment implementing a simple grid-world where an agent learns to navigate to a target position using Proximal Policy Optimization (PPO).
+A basic custom Gymnasium environment implementing a simple grid-world where an agent learns to navigate to a target position using Proximal Policy Optimization (PPO).
 
 ## Overview
 
